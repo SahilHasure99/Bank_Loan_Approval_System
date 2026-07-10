@@ -1,0 +1,14 @@
+--------------------------HOME LOAN---------------------------------------------------
+Loan ID: 456
+Loan Amount: 4500
+Interest Rate: 8.5%
+EMI: 110.917
+Remaining Balance: 4500
+Status: Active
+--------------------------HOME LOAN---------------------------------------------------
+Loan ID: 456
+Loan Amount: 45000
+Interest Rate: 8.5%
+EMI: 325.958
+Remaining Balance: 45000
+Status: Active
