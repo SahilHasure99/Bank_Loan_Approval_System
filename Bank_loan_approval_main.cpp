@@ -5,7 +5,7 @@
 #include <string>
 
 using namespace std;
-
+//this is our all protected variable
 class Loan_Management_System {
 protected:
     int customer_id, age;
